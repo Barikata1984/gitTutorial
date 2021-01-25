@@ -1,7 +1,4 @@
 Professor Saru's git commands
 add: register code modification in index
-<<<<<<< HEAD
 commit: record the condition of index
-=======
 pull: obtain the content of remote repositories
->>>>>>> l3: add a description about pull command
