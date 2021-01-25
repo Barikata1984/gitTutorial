@@ -1,2 +1,3 @@
 Professor Saru's git commands
 add: register code modification in index
+commit: record the condition of index
